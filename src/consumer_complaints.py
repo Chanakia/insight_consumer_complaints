@@ -7,7 +7,7 @@ from operator import itemgetter
 from io import StringIO
 import sys
 
-# initialing empty 'dictionary of list' & list data structures
+# initializing empty 'dictionary of list' & list data structures
 dt_format = '%Y-%m-%d'
 company_dict = defaultdict(list)
 report_list = []
@@ -15,8 +15,8 @@ input_file = sys.argv[1]
 output_file = sys.argv[2]
 
 
-# function for  rounding up float val of  0.5 to 1 & rounding down below 0.5 to 0
 def normal_round(n):
+    """function for  rounding up float val of  0.5 to 1 & rounding down below 0.5 to 0"""
     if n - math.floor(n) < 0.5:
         return math.floor(n)
     return math.ceil(n)
@@ -45,8 +45,8 @@ with open(input_file) as f:
 
 
 # Iterating key(str with product and yr) & value (list of companies) pair from company dictionary
-# Extracting product, yr,total complaints,total no of companies receiving at least one complaint
-# & highest % of total complaints filed against one company for that respective product and year from each iteration
+#  to Extract product, yr,total complaints,total no of companies receiving at least one complaint
+# & highest % of total complaints filed against one company for that respective product and year
 for prod_yr, complaint_list in company_dict.items():
     product, year = prod_yr.split('~')
     complaints_total = len(complaint_list)
