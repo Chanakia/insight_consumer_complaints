@@ -20,4 +20,16 @@ FROM
 		consumer_table
 	GROUP BY
 		product, YEAR, company);
+		
+#### Replicating the above sql statement into pythonic way by using dictionary of lists
 
+Since the key in the dataset report consists of two fields product and year
+unique value based on these two fields can be created by concatenating both columns or generating
+a hash value(i.e md5 checksum).Can be achieved by following steps: 
+- formatting product and yr from dataset into single string : product_year = "{}~{}".format(product, year).lower()
+- generating dictionary similar to {'product_year' : ['company_1', 'company_2'], 'creditcard_2020':['experian','dnb']}
+
+#### Generate report from dictionary of company list items
+Iterating key(str with product and yr) & value (list of companies) pair from company dictionary
+to Extract product, yr,total complaints,total no of companies receiving at least one complaint
+ & highest % of total complaints filed against one company for that respective product and year
