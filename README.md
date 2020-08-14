@@ -30,6 +30,12 @@ a hash value(i.e md5 checksum).Can be achieved by following steps:
 - generating dictionary similar to {'product_year' : ['company_1', 'company_2'], 'creditcard_2020':['experian','dnb']}
 
 #### Generate report from dictionary of company list items
-Iterating key(str with product and yr) & value (list of companies) pair from company dictionary
-to Extract product, yr,total complaints,total no of companies receiving at least one complaint
- & highest % of total complaints filed against one company for that respective product and year
+- Iterating key(str with product and yr) & value (list of companies) pair from company dictionary
+- Extract product, yr,total complaints,total no of companies receiving at least one complaint
+
+- Calculate highest % of total complaints filed against one company for that respective product and year
+        "top_percent_total = normal_round((complaint_highest/complaints_total)*100)"
+- sorting item in the list by product (alphabetically) and year (ascending)
+       report_list.sort(key=itemgetter(0, 1)) 
+- writing report to a file &  enclosing only attributes which contain comma (,) by  quotation marks (")
+        writer = csv.writer(f, quoting=csv.QUOTE_MINIMAL)
