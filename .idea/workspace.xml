@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcae5d74-4815-4c4c-8a3d-268d8ce3cc6a" name="Default Changelist" comment="coding challenge initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/insight_consumer_complaints.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_consumer_complaints.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/report.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/consumer_complaints.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/consumer_complaints.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1g3lWNjauxHdiC4sVVmE0e56PYd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for src.test_consumer_complaints.TestNormalRound.test_round">
+    <configuration name="consumer_complaints" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="insight_consumer_complaints" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/consumer_complaints.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src.test_consumer_complaints.FixturesTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="insight_consumer_complaints" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.test_consumer_complaints.FixturesTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src.test_consumer_complaints.FixturesTest.test_normal_round" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="insight_consumer_complaints" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.test_consumer_complaints.FixturesTest.test_normal_round&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src.test_consumer_complaints.TestNormalRound" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="insight_consumer_complaints" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.test_consumer_complaints.TestNormalRound&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for src.test_consumer_complaints.TestNormalRound.test_round" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="insight_consumer_complaints" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.test_consumer_complaints.TestNormalRound.test_round&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for src.test_consumer_complaints.TestNormalRound.test_round" />
+        <item itemvalue="Python tests.Unittests for src.test_consumer_complaints.TestNormalRound" />
+        <item itemvalue="Python.consumer_complaints" />
+        <item itemvalue="Python tests.Unittests for src.test_consumer_complaints.FixturesTest.test_normal_round" />
+        <item itemvalue="Python tests.Unittests for src.test_consumer_complaints.FixturesTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcae5d74-4815-4c4c-8a3d-268d8ce3cc6a" name="Default Changelist" comment="" />
+      <created>1597351187292</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597351187292</updated>
+    </task>
+    <task id="LOCAL-00001" summary="coding challenge initial commit">
+      <created>1597367851811</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597367851811</updated>
+    </task>
+    <task id="LOCAL-00002" summary="coding challenge initial commit">
+      <created>1597368833963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597368833963</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="coding challenge initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="coding challenge initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="289" key="GridCell.Tab.0.bottom" timestamp="1597409694035">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="289" key="GridCell.Tab.0.bottom/0.23.1920.1010/1920.23.1920.1057@1920.23.1920.1057" timestamp="1597409694035" />
+    <state width="1899" height="289" key="GridCell.Tab.0.center" timestamp="1597409694034">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="289" key="GridCell.Tab.0.center/0.23.1920.1010/1920.23.1920.1057@1920.23.1920.1057" timestamp="1597409694034" />
+    <state width="1899" height="289" key="GridCell.Tab.0.left" timestamp="1597409694034">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="289" key="GridCell.Tab.0.left/0.23.1920.1010/1920.23.1920.1057@1920.23.1920.1057" timestamp="1597409694034" />
+    <state width="1899" height="289" key="GridCell.Tab.0.right" timestamp="1597409694035">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="289" key="GridCell.Tab.0.right/0.23.1920.1010/1920.23.1920.1057@1920.23.1920.1057" timestamp="1597409694035" />
+    <state x="2480" y="291" key="Vcs.Push.Dialog.v2" timestamp="1597368838552">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2480" y="291" key="Vcs.Push.Dialog.v2/0.23.1920.1010/1920.23.1920.1057@1920.23.1920.1057" timestamp="1597368838552" />
+    <state x="2649" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597405875241">
+      <screen x="1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2649" y="471" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1010/1920.23.1920.1057@1920.23.1920.1057" timestamp="1597405875241" />
+  </component>
+</project>
