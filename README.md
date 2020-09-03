@@ -1,4 +1,4 @@
-# Insight Data Engineering coding challenge
+# Analysis of Consumer Finance Protection Bureau's consumer complaints 
 ## Report on Consumer Complaints
 Goal of this project is to analyze  Consumer Finance Protection Bureau's consumer complaints data-set and  generate report which consists of
 each financial product and year, the total number of complaints, number of companies receiving a complaint, and the highest percentage of 
